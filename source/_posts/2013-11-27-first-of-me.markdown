@@ -1,0 +1,9 @@
+---
+layout: post
+title: "first of me"
+date: 2013-11-27 10:11:50 +0800
+comments: true
+categories: 
+---
+Hello World.
+I think it's formidable
